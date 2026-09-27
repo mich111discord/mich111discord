@@ -3,7 +3,9 @@
   # Hi there, I'm MightyMich! 👋
 
   ### 🚀 Enthusiast of modding and continuous learning
-
+<div>
+  https://github-stats-extended.vercel.app/api?username=mich111discord&rank_icon=github&custom_title=My%20Journey&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent
+</div>
   [![Discord](https://img.shields.io/badge/Discord-Join_the_server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://mightymich.web1337.net/discord?from=github.com-profile-readme)
 
 </div>
